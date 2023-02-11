@@ -112,7 +112,7 @@ newmtl Material__25
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\chiar\Desktop\Anno 2022-2023\Dentro il Museo\ESAME\DISEGNO\SEZIONE 500\DET AUTO\DET GENERALE\IMAGES_DETGEN\1.jpg
+	map_Kd 1.jpg
 
 newmtl Material__26
 	Kd 0.500000 0.500000 0.500000
@@ -127,7 +127,7 @@ newmtl Material__26
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\chiar\Desktop\Anno 2022-2023\Dentro il Museo\ESAME\DISEGNO\SEZIONE 500\DET AUTO\DET GENERALE\IMAGES_DETGEN\2.jpeg
+	map_Kd 2.jpeg
 
 newmtl Material__27
 	Kd 0.500000 0.500000 0.500000
@@ -142,7 +142,7 @@ newmtl Material__27
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\chiar\Desktop\Anno 2022-2023\Dentro il Museo\ESAME\DISEGNO\SEZIONE 500\DET AUTO\DET GENERALE\IMAGES_DETGEN\3.jpg
+	map_Kd 3.jpg
 
 newmtl Material__28
 	Kd 0.500000 0.500000 0.500000
@@ -157,7 +157,7 @@ newmtl Material__28
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\chiar\Desktop\Anno 2022-2023\Dentro il Museo\ESAME\DISEGNO\SEZIONE 500\DET AUTO\DET GENERALE\IMAGES_DETGEN\5.jpg
+	map_Kd 5.jpg
 
 newmtl Material__30
 	Kd 0.500000 0.500000 0.500000
@@ -172,7 +172,7 @@ newmtl Material__30
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\chiar\Desktop\Anno 2022-2023\Dentro il Museo\ESAME\DISEGNO\SEZIONE 500\DET AUTO\DET GENERALE\IMAGES_DETGEN\6.jpg
+	map_Kd 6.jpg
 
 newmtl Material__29
 	Kd 0.500000 0.500000 0.500000
@@ -187,7 +187,7 @@ newmtl Material__29
 	Ni 1.520000
 	Ke 0.000000 0.000000 0.000000
 	illum 2
-	map_Kd C:\Users\chiar\Desktop\Anno 2022-2023\Dentro il Museo\ESAME\DISEGNO\SEZIONE 500\DET AUTO\DET GENERALE\IMAGES_DETGEN\4.jpg
+	map_Kd 4.jpg
 
 newmtl Material23
 	Kd 0.701961 0.701961 0.698039
